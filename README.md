@@ -1,16 +1,97 @@
-## Hi there 👋
+<h1 align="left" id="khaled-title">👋 Hello! I'm <strong>Khaled Alabadla</strong></h1>
+<h3 align="left"><strong>Software Engineer</strong> | <strong>PHP Laravel Developer</strong> | <strong>Vue.js Developer</strong></h3>
 
-<!--
-**Khaled-Alabadla/Khaled-Alabadla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://khaled-esam.vercel.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live-success?logo=vercel">
+  </a>
+  <a href="https://khaled-esam.vercel.app/projects">
+    <img alt="Projects" src="https://img.shields.io/badge/Projects-View-blue?logo=github">
+  </a>
+  <a href="https://khaled-esam.vercel.app/blogs">
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-Read-orange?logo=dev.to">
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 &nbsp;<strong>Software Engineer</strong> specialized in <strong>Laravel & Vue.js</strong>- 🌍 &nbsp;Based in <strong>Palestine</strong>
+- 🎓 &nbsp;BSc in <strong>Software Engineering</strong> — <strong>GPA 93.59%</strong> (Rank <strong>1st</strong>)
+- 🚀 &nbsp;Experienced in <strong>APIs, Databases, and Full-Stack Web Applications</strong>
+- 🤝 &nbsp;Connect with me on <strong>[LinkedIn]</strong>
+
+<h2 align="left" id="khaled-tech">💻 Tech Stack</h2>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" />
+      <br><strong>PHP</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://laravel.com/img/logomark.min.svg" width="48" />
+      <br><strong>Laravel</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" />
+      <br><strong>Vue.js</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" />
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" />
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" />
+      <br><strong>HTML</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" />
+      <br><strong>CSS</strong>
+    </td>
+    <td align="center" width="96">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="48" />
+  <br><strong>Bootstrap</strong>
+</td>
+<td align="center" width="96">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" />
+  <br><strong>Tailwind CSS</strong>
+</td>
+    <td align="center" width="96">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="48" />
+  <br><strong>jQuery</strong>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" />
+      <br><strong>Git</strong>
+    </td>
+  </tr>
+</table>
+
+<h2 align="left">🧠 About My Work</h2>
+
+- 🛒 <strong>Developing high-performance e-commerce platforms</strong> with exceptional user experience
+- 🧩 <strong>Building modern web applications</strong> using <strong>Laravel & Vue.js</strong>
+- 🗄️ <strong>Designing and managing databases</strong> with advanced and complex queries
+- 🔗 <strong>Developing and integrating RESTful APIs</strong> to connect systems and enable seamless interaction
+
+<!-- links -->
+
+[LinkedIn]: https://www.linkedin.com/in/khaled-alabadla
+
+<h2 align="left">🔥 Top Repositories</h2>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos/?username=Khaled-Alabadla&theme=github_dark" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/Khaled-Alabadla/qarara-aid">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled-Alabadla&repo=qarara-aid" />
+  </a>
+
+  <a href="https://github.com/Khaled-Alabadla/survey-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled-Alabadla&repo=survey-system" />
+  </a>
+</p>
