@@ -79,19 +79,3 @@
 <!-- links -->
 
 [LinkedIn]: https://www.linkedin.com/in/khaled-alabadla
-
-<h2 align="left">🔥 Top Repositories</h2>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos/?username=Khaled-Alabadla&theme=github_dark" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/Khaled-Alabadla/qarara-aid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled-Alabadla&repo=qarara-aid" />
-  </a>
-
-  <a href="https://github.com/Khaled-Alabadla/survey-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled-Alabadla&repo=survey-system" />
-  </a>
-</p>
