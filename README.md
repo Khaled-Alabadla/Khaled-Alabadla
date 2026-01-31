@@ -14,7 +14,8 @@
 </p>
 
 
-- 💻 &nbsp;<strong>Software Engineer</strong> specialized in <strong>Laravel & Vue.js</strong>- 🌍 &nbsp;Based in <strong>Palestine</strong>
+- 💻 &nbsp;<strong>Software Engineer</strong> specialized in <strong>Laravel & Vue.js</strong>
+- 🌍 &nbsp;Based in <strong>Palestine</strong>
 - 🎓 &nbsp;BSc in <strong>Software Engineering</strong> — <strong>GPA 93.59%</strong> (Rank <strong>1st</strong>)
 - 🚀 &nbsp;Experienced in <strong>APIs, Databases, and Full-Stack Web Applications</strong>
 - 🤝 &nbsp;Connect with me on <strong>[LinkedIn]</strong>
