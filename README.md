@@ -2,7 +2,7 @@
 <h3 align="left"><strong>Software Engineer</strong> | <strong>PHP Laravel Developer</strong> | <strong>Vue.js Developer</strong></h3>
 
 <p align="left">
-  <a href="https://khaled-esam.vercel.app/">
+  <a href="https://khaled-esam.vercel.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live-success?logo=vercel">
   </a>
   <a href="https://khaled-esam.vercel.app/projects">
