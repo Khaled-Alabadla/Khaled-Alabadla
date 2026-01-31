@@ -8,7 +8,7 @@
   <a href="https://khaled-esam.vercel.app/projects">
     <img alt="Projects" src="https://img.shields.io/badge/Projects-View-blue?logo=github">
   </a>
-  <a href="https://khaled-esam.vercel.app/blogs">
+  <a href="https://khaled-esam.vercel.app/blog">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-Read-orange?logo=dev.to">
   </a>
 </p>
