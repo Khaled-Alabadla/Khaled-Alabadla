@@ -2,13 +2,13 @@
 <h3 align="left"><strong>Software Engineer</strong> | <strong>PHP Laravel Developer</strong> | <strong>Vue.js Developer</strong></h3>
 
 <p align="left">
-  <a href="https://khaled-esam.vercel.app/" target="_blank">
+  <a href="https://khaled-esam.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live-success?logo=vercel">
   </a>
-  <a href="https://khaled-esam.vercel.app/projects">
+  <a href="https://khaled-esam.vercel.app/projects" target="_blank" rel="noopener noreferrer">
     <img alt="Projects" src="https://img.shields.io/badge/Projects-View-blue?logo=github">
   </a>
-  <a href="https://khaled-esam.vercel.app/blog">
+  <a href="https://khaled-esam.vercel.app/blog" target="_blank" rel="noopener noreferrer">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-Read-orange?logo=dev.to">
   </a>
 </p>
